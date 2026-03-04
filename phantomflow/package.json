@@ -9,16 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "canvas-confetti": "^1.9.4",
     "framer-motion": "^12.34.5",
     "lucide-react": "^0.576.0",
+=======
+>>>>>>> 43c556a281f73a24e0eefc63718c2d798f9eb109
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+<<<<<<< HEAD
     "@types/canvas-confetti": "^1.9.0",
+=======
+>>>>>>> 43c556a281f73a24e0eefc63718c2d798f9eb109
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
